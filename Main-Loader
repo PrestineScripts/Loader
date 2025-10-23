@@ -11,12 +11,6 @@ end
 
 if game.PlaceId == nil then
     print("Game PlaceId is nil")
-elseif game.PlaceId == 85896571713843 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PrestineScripts/Main/refs/heads/main/BubbleGumSim"))()
-elseif game.PlaceId == 116495829188952 or game.PlaceId == 70876832253163 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PrestineScripts/Main/refs/heads/main/DeadRails"))()
-elseif game.PlaceId == 126884695634066 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PrestineScripts/Main/refs/heads/main/GrowAGarden"))()
-elseif game.PlaceId == 3623096087 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PrestineScripts/Main/refs/heads/main/MuscleLegends"))()
+elseif game.PlaceId == 90462358603255 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PrestineScripts/Main/refs/heads/main/AnimeEternal"))()
 end
